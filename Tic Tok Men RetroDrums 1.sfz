@@ -1,0 +1,80 @@
+// Retro Drum Sample Set 1
+// by Seven Graylands of The Tic Tok Men (www.tictokmen.com)
+//
+// Samples cleaned and converted from the original GigaSampler version by S. Christian Collins
+// www.schristiancollins.com
+
+<control>
+default_path=samples/
+
+<master> loop_mode=one_shot  note_polyphony=1
+
+<region> sample=skkick.wav        key=24  loop_mode=no_loop  ampeg_release=0.3
+<region> sample=skclhat.wav       key=25  loop_mode=no_loop  ampeg_release=0.3
+<region> sample=sksnare.wav       key=26  loop_mode=no_loop  ampeg_release=1
+<region> sample=skophat.wav       key=27  loop_mode=no_loop  ampeg_release=1
+<region> sample=Univoxsd.wav      key=28  loop_mode=no_loop  ampeg_release=1
+<region> sample=sklotom.wav       key=29  loop_mode=no_loop  ampeg_release=0.3
+<region> sample=Univoxoh.wav      key=30  loop_mode=no_loop  ampeg_release=1
+<region> sample=skhitom.wav       key=31  loop_mode=no_loop  ampeg_release=0.3
+<region> sample=shorthi.wav       key=32
+<region> sample=kick.wav          key=33
+<region> sample=crash.wav         key=34  loop_mode=no_loop  ampeg_release=3
+<region> sample=shortsn.wav       key=35
+<region> sample=Kirz.wav          key=36
+<region> sample=Hcrz.wav          key=37
+<region> sample=Snrz.wav          key=38
+<region> sample=Horz.wav          key=39  loop_mode=no_loop  ampeg_release=3
+<region> sample=Rsrz.wav          key=40
+<region> sample=Tm3rz.wav         key=41
+<region> sample=Crrz.wav          key=42  loop_mode=no_loop  ampeg_release=5
+<region> sample=Tm2rz.wav         key=43
+<region> sample=Ccrz.wav          key=44  loop_mode=no_loop  ampeg_release=3
+<region> sample=Tm1rz.wav         key=45
+<region> sample=Cbrz.wav          key=46
+<region> sample=Clrz.wav          key=47
+<region> sample=DT_Kick.wav       key=48
+<region> sample=DT_Closedhat.wav  key=49
+<region> sample=DT_Snare.wav      key=50
+<region> sample=DT_Openhat.wav    key=51  loop_mode=no_loop  ampeg_release=1
+<region> sample=DT_Rimshot.wav    key=52
+<region> sample=DT_Tom02.wav      key=53
+<region> sample=DT_Ride.wav       key=54  loop_mode=no_loop  ampeg_release=3
+<region> sample=DT_Tom01.wav      key=55
+<region> sample=DT_Crash.wav      key=56  loop_mode=no_loop  ampeg_release=3
+<region> sample=DT_Cowbell.wav    key=57
+<region> sample=DT_Tamborine.wav  key=58
+<region> sample=DT_Clap.wav       key=59
+<region> sample=kick1.wav         key=60
+<region> sample=chihat.wav        key=61
+<region> sample=snare.wav         key=62
+<region> sample=ohihat.wav        key=63  loop_mode=no_loop  ampeg_release=1
+<region> sample=brush.wav         key=64
+<region> sample=lowtom.wav        key=65
+<region> sample=cymbal.wav        key=66  loop_mode=no_loop  ampeg_release=1.5
+<region> sample=midtom.wav        key=67
+<region> sample=shaker.wav        key=68
+<region> sample=hitom.wav         key=69
+<region> sample=Cr8kcowb.wav      key=70
+<region> sample=Cr8kclap.wav      key=71  loop_mode=no_loop  ampeg_release=1
+<region> sample=Cr8kbass.wav      key=72
+<region> sample=Cr8kchat.wav      key=73
+<region> sample=Cr8ksnar.wav      key=74
+<region> sample=Cr8kohat.wav      key=75  loop_mode=no_loop  ampeg_release=1
+<region> sample=Cr8krim.wav       key=76
+<region> sample=Cr8klotm.wav      key=77
+<region> sample=Cr8kcymb.wav      key=78  loop_mode=no_loop  ampeg_release=1
+<region> sample=Cr8khitm.wav      key=79
+<region> sample=Cr8kclav.wav      key=80
+<region> sample=Cr8klcng.wav      key=81
+<region> sample=DT_Cabasa.wav     key=82  loop_mode=no_loop  ampeg_release=1
+<region> sample=Cr8kmcng.wav      key=83
+<region> sample=512bdrum.wav      key=84
+<region> sample=512hhcl.wav       key=85
+<region> sample=512snare.wav      key=86
+<region> sample=512hhop.wav       key=87  loop_mode=no_loop  ampeg_release=1.5
+<region> sample=512lotom.wav      key=89
+<region> sample=512cymb.wav       key=90  loop_mode=no_loop  ampeg_release=1
+<region> sample=512mdtom.wav      key=91
+<region> sample=512hitom.wav      key=93
+<region> sample=512clap.wav       key=95
